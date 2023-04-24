@@ -9,4 +9,5 @@
 int yywrap(){}
 int main()
 {
-w
+while(yylex());
+}
